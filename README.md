@@ -7,5 +7,5 @@ Demo Video - https://www.youtube.com/watch?v=_fRp408fauI
 4. CNN used is VGG-16.
 5. Trained on CPU mode on Caffe. Used Python 2.7.
 
-### Data Folders and .prototxt, .caffemodel files not included. Email me at asuag@umass.edu if interested.
+### Data Folders and .caffemodel files not included. Email me at asuag@umass.edu if interested.
 
